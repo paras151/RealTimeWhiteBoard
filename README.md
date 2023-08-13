@@ -14,3 +14,6 @@ This is a realtime white board which multiple people can join, collaborate and d
 2. Socket programming to allow multiple users to collaborate
 3. DOM manipulation
 
+# Tools Used
+HTML | CSS | Websockets | Javascript
+
