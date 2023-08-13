@@ -4,10 +4,10 @@ This is a realtime white board which multiple people can join, collaborate and d
 # Features
 1. Draw using the pencil tool
 2. Add and edit sticky notes on the board.
-3. upload images
-4. download your board as an image
+3. Upload images
+4. Download your board as an image
 5. Undo and Redo functionality
-6. zoom in and zoom out on the board
+6. Zoom in and zoom out on the board
 
 # Learnings
 1. HTMl Canvas
